@@ -1,2 +1,1 @@
-# Crawl
-Web Crawl
+   我的这个爬虫用到了scrapy框架和selenium，主要用来爬取github的commit的主要信息。主要提取了commit的标题，描述，所包含的修改文件的文件名函数名和对应的代码的增加和删除部分。
